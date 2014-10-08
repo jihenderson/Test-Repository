@@ -2,5 +2,6 @@ another pile of stuff
 
 More stuff to be done
 
-Editing a file on the development branch and seeing how it works.
+Making an edit on the master branch - while i know that there is stuff in the development branch that i would like to merge.
 
+Editing a file on the development branch and seeing how it works.
