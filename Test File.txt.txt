@@ -10,3 +10,5 @@ And now i have added a 3rd edit
 
 I have added a few lines as a test branch somewhere on the tree.
 
+Adding a new line for a commit test
+
